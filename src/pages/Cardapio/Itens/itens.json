@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Mediterranean Pasta",
+    "description": "Spaghetti pasta with seafood and spices, our specialty. Caution: Contains praw!",
+    "photo": "/assets/pratos/macarrao_mediterraneo.png",
+    "size": 400,
+    "serving": 2,
+    "price": 73,
+    "id": 1,
+    "category": {
+      "id": 1,
+      "label": "Pasta"
+    }
+  },
+  {
+    "title": "Pasta Sea",
+    "description": "Spaghetti pasta with seafood and spices, our specialty. Caution: Contains praw!",
+    "photo": "/assets/pratos/macarrao_da_casa.png",
+    "size": 400,
+    "serving": 2,
+    "price": 54,
+    "id": 2,
+    "category": {
+      "id": 1,
+      "label": "Pasta"
+    }
+  },
+  {
+    "title": "Chilli Pasta",
+    "description": "Fetuccine pasta with chilli sauce. Spice!",
+    "photo": "/assets/pratos/macarrao_com_chilli.png",
+    "size": 350,
+    "serving": 1,
+    "price": 58,
+    "id": 3,
+    "category": {
+      "id": 1,
+      "label": "Pasta"
+    }
+  },
+  {
+    "title": "Salad & Salmon",
+    "description": "Our special salad (lettuce, arugula, carrots) with grilled salmon.",
+    "photo": "/assets/pratos/salada_da_casa.png",
+    "size": 450,
+    "serving": 1,
+    "price": 42,
+    "id": 4,
+    "category": {
+      "id": 2,
+      "label": "Meat"
+    }
+  },
+  {
+    "title": "Steak & Potatoes",
+    "description": "Grilled beef steak (150g), with fries. Served with rice and sauces.",
+    "photo": "/assets/pratos/bife_com_batatas.png",
+    "size": 550,
+    "serving": 2,
+    "price": 86,
+    "id": 5,
+    "category": {
+      "id": 2,
+      "label": "Meat"
+    }
+  },
+  {
+    "title": "Beef & Vegetables Pasta",
+    "description": "400g chopped picanha, with grilled vegetables and pasta chosen by the customer.",
+    "photo": "/assets/pratos/picanha_picada.png",
+    "size": 850,
+    "serving": 3,
+    "price": 123,
+    "id": 6,
+    "category": {
+      "id": 3,
+      "label": "Combinations"
+    }
+  },
+  {
+    "title": "Vegan Lasagna",
+    "description": "100% vegan made with soy meat and special pasta.",
+    "photo": "/assets/pratos/lasagna_vegana.png",
+    "size": 350,
+    "serving": 1,
+    "price": 45,
+    "id": 7,
+    "category": {
+      "id": 4,
+      "label": "Vegan"
+    }
+  },
+  {
+    "title": "Special Salad",
+    "description": "Salad with avocado, mango, lettuce, chickpeas, and vegetables from the season",
+    "photo": "/assets/pratos/salada_especial.png",
+    "size": 350,
+    "serving": 1,
+    "price": 37,
+    "id": 8,
+    "category": {
+      "id": 4,
+      "label": "Vegan"
+    }
+  },
+  {
+    "title": "Porpetta",
+    "description": "Portion of meatballs with sour cream, onions and spices. Served with rice or pasta.",
+    "photo": "/assets/pratos/almondegas.png",
+    "size": 740,
+    "serving": 3,
+    "price": 120,
+    "id": 9,
+    "category": {
+      "id": 3,
+      "label": "Combinations"
+    }
+  }
+]
